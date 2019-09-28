@@ -6,7 +6,7 @@ end
 
 def actor
 
-  hash = {:name => "Johnny Depp"}
+  hash = {:name => "Dwayne The Rock Johnson"}
   hash
 end
 
